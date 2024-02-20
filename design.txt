@@ -1,0 +1,15 @@
+https://onedrive.live.com/?authkey=%21AKgB3q6ZohNGjUM&id=2C3D1E2234649594%21206337&cid=2C3D1E2234649594&parId=root&parQt=sharedby&o=OneUp
+
+comprends:
+
+- sequence
+
+- diag-use-case
+
+- diag-class
+
+- style-guide
+
+- wireframes
+
+- mockup
